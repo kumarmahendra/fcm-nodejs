@@ -1,0 +1,15 @@
+{
+  "name": "fcm-nodejs",
+  "version": "1.0.0",
+  "description": "Node js boilerplate code for sending FCM notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahendra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^12.4.0"
+  }
+}
